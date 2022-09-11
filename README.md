@@ -1,7 +1,7 @@
 # 👋 Hello World
 * 💻 I am intermediately proficient in JavaScript and Python.
 * 🌱 I am currently expanding my skills in Front-end Web development with React JS.
-* 💬 Ask me about tech, Books and Productivity.
+* 💬 Ask me about Web Development, Books and Productivity.
 * ⚡ Languages known: Python, JavaScript, C & Java.
 
 Let's Connect</br>
