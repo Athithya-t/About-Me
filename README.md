@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS, Data Structures**
 
-- 👯 I’m looking to collaborate on **Web development Projects**
+- 👯 I’m looking to collaborate on **any project that intrests me**
 
 - 💬 Ask me about **Frontend Development**
 
