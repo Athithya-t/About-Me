@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athithya</h1>
-<h3 align="center">Web developer, Open-Source Enthusiast from India</h3>
+<h3 align="center">Creating User Interfaces. Writing Blogs.</h3>
 
 - 🌱 I’m currently learning **Next JS, TypeScript**
 
